@@ -11,7 +11,7 @@ body {
   font-size: 14px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  border-top: 4px #dbd034  solid;
+  border-top: 4px #888666  solid;
 }
 h1, h2, h3, h4, h5 {
 	font-family:'Oswald', Arial, Helvetica, sans-serif !important;
@@ -35,8 +35,8 @@ h1, h2, h3, h4, h5 {
 	font-size:16px;
 	text-align:right;
 }
-.lineNav	{ background:#dbc534; height:5px;}
-.lineNav2	{ background:#dbc534; height:5px; float:left; width:30%;}
+.lineNav	{ background:#888666; height:5px;}
+.lineNav2	{ background:#888666; height:5px; float:left; width:30%;}
 .navbar	{
 	background:#2e0099;
 	margin:0;
@@ -88,7 +88,7 @@ h1, h2, h3, h4, h5 {
 }
 @media (max-width:768px) {
 .logo	{
-	background: url(Logo.jpg) no-repeat top center;
+	background: url() no-repeat top center;
 	width:100%;
 	height:70px;
 	display:block;
@@ -488,7 +488,7 @@ line-height: 20px;
 	font-size: 19px;
 }
 .orgBox3 {
-    background: #c1d5dd;
+    background: #9fc5d5;
     color: #FFF;
     padding: 15px 20px;
     margin-bottom: 11px;
@@ -500,7 +500,7 @@ line-height: 20px;
 	text-transform:uppercase;
 	margin:0 0 10px 0;
 	line-height:30px;
-	border-bottom:1px solid #065471;
+	border-bottom:1px solid #71061a;
 	color:#065471;
 	font-size:19px;
 	font-weight:normal;
