@@ -23,10 +23,10 @@ h1, h2, h3, h4, h5 {
 	clear:both;
 }
 .logo	{
-	background: url);
+	background: url(/images/Screenshot\ 2023-05-22\ 231728.jpg);
 	background-repeat:no-repeat;
-	width:900px;
-	height:90px;
+	width: 1050px;
+	height:200px;
 	display:block;
 	text-indent:-9999px;
 }
@@ -275,7 +275,7 @@ span.border{
 	/*font-size:18px;*/
 }
 
-.boxColour1	{ background:#005259;}
+.boxColour1	{ background:#0A4D68;}
 .boxColour2	{ background:#0A4D68;}
 .boxColour4	{ background:#005259;}
 
@@ -291,7 +291,7 @@ a.mybutton	{
 	text-align:center;
 }
 a.mybutton:hover	{ text-decoration:none; color:#d4d7c6;}
-.buttColour1	{ background:#0f7487;}
+.buttColour1	{ background:#0f3e4f;}
 .buttColour2	{ background:#0f3e4f;}
 .buttColour3	{ background:#bd6907;}
 .buttColour4	{ background:#06393d;}
@@ -535,12 +535,12 @@ line-height: 20px;
 .top_menu li a{	
 	color:#000000;
     padding:10px 20px;
-	background-color:#bfdb34;
+	background-color:#cfcfcf;
 	border-radius: 0 0 5px 5px;
 }
 .top_menu li a:hover	{
 	text-decoration:none;
-	background:#af3cb5;
+	background:#3ca5b5;
 }
 @media (max-width:768px) {
 	.top_menu	{ text-align:center;}
