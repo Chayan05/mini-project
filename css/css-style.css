@@ -25,8 +25,9 @@ h1, h2, h3, h4, h5 {
 .logo	{
 	background: url(/images/bg_logo.png);
 	background-repeat:no-repeat;
-	width: 1050px;
-	height:200px;
+	
+	width: 2000px;
+	/* height:200px; */
 	display:block;
 	text-indent:-9999px;
 }
@@ -664,7 +665,7 @@ h1,
             list-style: none;
         }
         img {
-    max-width: 100%;
+    max-width: 185%;
     height: auto;
 }
         section {
